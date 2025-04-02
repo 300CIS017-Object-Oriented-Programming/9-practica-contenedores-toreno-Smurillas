@@ -13,4 +13,5 @@ add_executable(Practica_Contenedores1
         src/Jugador.h
         src/Jugador.cpp
         src/Torneo.cpp
-        src/Torneo.h)
+        src/Torneo.h
+        src/main.cpp)

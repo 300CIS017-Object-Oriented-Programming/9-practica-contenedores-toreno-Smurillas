@@ -2,7 +2,7 @@
 #include <iostream>
 
 Jugador::Jugador(string nick) {
-    nickname = nick;
+    nickname = std::move(nick);
 }
 
 void Jugador::inscribir(Videojuego* juego) {

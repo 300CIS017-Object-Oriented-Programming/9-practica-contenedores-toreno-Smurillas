@@ -11,7 +11,7 @@ public:
     string nickname;
     vector<Videojuego*> videojuegos;
 
-    Jugador(string nick);
+    explicit Jugador(string nick);
     void inscribir(Videojuego* juego);
     void mostrarVideojuegos();
 };

@@ -67,6 +67,12 @@ build CMakeFiles/Practica_Contenedores1.dir/src/Torneo.cpp.o: CXX_COMPILER__Prac
   OBJECT_DIR = CMakeFiles/Practica_Contenedores1.dir
   OBJECT_FILE_DIR = CMakeFiles/Practica_Contenedores1.dir/src
 
+build CMakeFiles/Practica_Contenedores1.dir/src/main.cpp.o: CXX_COMPILER__Practica_Contenedores1_unscanned_Debug /Users/santiagomurillas/Documents/Santiago$ Murillas/2ndo$ Semestre/Programacion$ Orientada$ a$ Objetos/Practica$ Contenedores1/src/main.cpp || cmake_object_order_depends_target_Practica_Contenedores1
+  DEP_FILE = CMakeFiles/Practica_Contenedores1.dir/src/main.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Practica_Contenedores1.dir
+  OBJECT_FILE_DIR = CMakeFiles/Practica_Contenedores1.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Practica_Contenedores1
@@ -75,7 +81,7 @@ build CMakeFiles/Practica_Contenedores1.dir/src/Torneo.cpp.o: CXX_COMPILER__Prac
 #############################################
 # Link the executable Practica_Contenedores1
 
-build Practica_Contenedores1: CXX_EXECUTABLE_LINKER__Practica_Contenedores1_Debug CMakeFiles/Practica_Contenedores1.dir/src/VideoJuego.cpp.o CMakeFiles/Practica_Contenedores1.dir/src/Jugador.cpp.o CMakeFiles/Practica_Contenedores1.dir/src/Torneo.cpp.o
+build Practica_Contenedores1: CXX_EXECUTABLE_LINKER__Practica_Contenedores1_Debug CMakeFiles/Practica_Contenedores1.dir/src/VideoJuego.cpp.o CMakeFiles/Practica_Contenedores1.dir/src/Jugador.cpp.o CMakeFiles/Practica_Contenedores1.dir/src/Torneo.cpp.o CMakeFiles/Practica_Contenedores1.dir/src/main.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3
   OBJECT_DIR = CMakeFiles/Practica_Contenedores1.dir
   POST_BUILD = :
