@@ -1,0 +1,7 @@
+# ninja log v6
+0	179	1743609758790539870	CMakeFiles/Practica_Contenedores1.dir/src/VideoJuego.cpp.o	92cf92970b763e0b
+1	260	1743609758790809664	CMakeFiles/Practica_Contenedores1.dir/src/Jugador.cpp.o	d7d51f4d6160f0e0
+5	275	1743610024142291794	CMakeFiles/Practica_Contenedores1.dir/src/Jugador.cpp.o	d7d51f4d6160f0e0
+5	386	1743610234747689313	CMakeFiles/Practica_Contenedores1.dir/src/main.cpp.o	b73b5d7a03218951
+5	398	1743610234747428561	CMakeFiles/Practica_Contenedores1.dir/src/Torneo.cpp.o	ab2ab1c0fd84af02
+398	484	1743610235140970405	Practica_Contenedores1	f5838b99c8b7aff9
